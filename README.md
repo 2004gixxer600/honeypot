@@ -1,4 +1,11 @@
 # Honeypot
+
+NOTICE...  Honeypot has been taken offline until further notice.
+
+Thank you
+
+
+
 Live Honeypot Stream
 
 Visit our live honeypot stream to safely view Live updates statistics on our dashboard!
